@@ -1,6 +1,7 @@
 # Goots
 
-![Github info](https://github.com/animatedrice/Goots/assets/15009951/91cbcdec-b9a8-447d-b928-a8eb576d8cc9)
+
+![Github info](https://github.com/animatedrice/Goots/assets/15009951/a0ecdd81-c7b0-4c95-be6e-8af9b2c9b3a2)
 
 Brings the roundest Goots to Stardew Valley [honk]!
 
