@@ -10,3 +10,10 @@ When you buy a Duck at Marnie's there is a chance you get Goots instead! (Think 
 - Goots eggs
 - Goots feathers
 - Goots Mayonnaise
+
+### Requirements
+* SMAPI (4.0 or up)
+* Content Patcher
+
+### Download
+[Download](https://github.com/animatedrice/Goots/releases)
